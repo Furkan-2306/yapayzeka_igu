@@ -33,14 +33,3 @@ Bu proje, yapay zeka alanında hem eğitim amaçlı hem de deneysel çalışmala
    git clone https://github.com/Furkan-2306/yapayzeka_igu.git
 
 ---
-
-### 3. **Değişiklikleri Kaydetme**
-   - Aşağıya inip **"Commit changes"** (Değişiklikleri kaydet) butonuna tıklayın.
-   - İsterseniz bir mesaj ekleyebilirsiniz, örneğin: `README dosyası güncellendi`.
-
----
-
-### 4. **Sonucu Kontrol Etme**
-   - README dosyanız, GitHub sayfanızda otomatik olarak görünür hale gelir.
-
-Eğer herhangi bir adımda takılırsanız veya detaylı yardım isterseniz, sormaktan çekinmeyin! 😊
